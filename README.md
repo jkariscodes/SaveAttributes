@@ -10,11 +10,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 You require to have the following softwares installed
 
-```
 * [QGIS](https://qgis.org/en/site/forusers/download.html) 
 * [QGIS Plugin Builder](https://plugins.qgis.org/plugins/pluginbuilder/) Helps us with ease in designing a QGIS plugin template
 * [Qt](https://www.qt.io/download) for designing our user interface 
-```
+
 ### Installing
 
 Install QGIS Desktop. Guidelines are [here](https://qgis.org/en/site/forusers/alldownloads.html) 
